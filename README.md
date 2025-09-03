@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Victorabel1
-- 👀 I’m interested in Data Science, Data Analytics and Bioinformatics 
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on projects around Bioinformatics, Data Science and Analytics 
-- 📫 How to reach me victorabelibrahim@gmail.com
+- 👀 I’m interested in Data Science, Data Engineering and Bioinformatics 
+- 💞️ I’m looking to collaborate on projects around Bioinformatics, Data Science/Engineering 
 
 <!---
 Victorabel1/Victorabel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
