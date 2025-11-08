@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Victorabel1
-- 👀 I’m interested in Data Science, Data Engineering and Bioinformatics 
+- 👀 I’m interested in Data Science, Data Engineering and Bioinformatics [Exploring Backend Engineering]
 - 💞️ I’m looking to collaborate on projects around Bioinformatics, Data Science/Engineering 
 
 <!---
