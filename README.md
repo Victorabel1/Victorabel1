@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Victorabel1
 - 👀 I’m interested in Data Science, Data Engineering and Bioinformatics [Exploring Backend Engineering]
-- 💞️ I’m looking to collaborate on projects around Bioinformatics, Data Science/Engineering 
+- 💞️ I’m looking to collaborate on projects around Data Science/Engineering, Backend (NodeJS), and Bioinformatics. 
 
-<!---
-Victorabel1/Victorabel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
